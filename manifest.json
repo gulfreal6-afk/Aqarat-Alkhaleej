@@ -1,14 +1,14 @@
 {
-  "name": "وسطاء المملكة",
-  "short_name": "وسطاء المملكة",
-  "description": "منصة عقارية تجمع الوسطاء والمطورين والبنوك والعملاء: عروض وطلبات ومشاريع ونسب تمويل.",
+  "name": "عقارات الخليج",
+  "short_name": "عقارات الخليج",
+  "description": "منصة عقارية تجمع الوسطاء والمطورين والبنوك والعملاء في دول الخليج: عروض وطلبات ومشاريع ونسب تمويل.",
   "lang": "ar",
   "dir": "rtl",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
-  "background_color": "#1a371f",
-  "theme_color": "#1a371f",
+  "background_color": "#081a2e",
+  "theme_color": "#081a2e",
   "icons": [
     {
       "src": "icon-192.png",
@@ -28,13 +28,5 @@
       "type": "image/png",
       "purpose": "maskable"
     }
-  ],
-  "id": "./",
-  "orientation": "portrait-primary",
-  "categories": [
-    "business",
-    "lifestyle",
-    "finance"
-  ],
-  "prefer_related_applications": false
+  ]
 }
